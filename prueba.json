@@ -1,0 +1,49 @@
+{
+  "request_time": "",
+  "info_centros": [
+    {
+      "c": "11700512",
+      "n": "I.E.S. Jorge Juan",
+      "d": "Avenida Duque de Arcos, 11",
+      "t": "956243374",
+      "l": "San Fernando",
+      "cp": "11"
+    },
+    {
+      "c": "18004276",
+      "n": "I.E.S. Ángel Ganivet",
+      "d": "Calle Santa Bárbara, 15",
+      "t": "958893353",
+      "l": "Granada",
+      "cp": "18"
+    }
+  ],
+  "info_ciclos": {
+    "11306G": {
+      "familia": "Hostelería y turismo",
+      "nombre_ciclo": "Dirección de cocina"
+    },
+    "04101": {
+      "familia": "Administración y gestión",
+      "nombre_ciclo": "Servicios Administrativos"
+    }
+  },
+  "items": [
+    {
+      "c": "11700512",
+      "cc": "11306G",
+      "t": "PÚBLICA",
+      "tu": "Mañana",
+      "b": "No",
+      "d": ""
+    },
+    {
+      "c": "18004276",
+      "cc": "04101",
+      "t": "PÚBLICA",
+      "tu": "Mañana",
+      "b": "No",
+      "d": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "oferta": [
+    {
+      "codigo": "11700512",
+      "nombre": "I.E.S. Jorge Juan",
+      "direccion": "Avenida Duque de Arcos, 11",
+      "telefono": "956243374",
+      "localidad": "San Fernando",
+      "codigo_provincia": "11",
+      "ciclos": [
+        {
+          "codigo_ciclo": "05101",
+          "nombre": "Servicios Administrativos",
+          "tipo": "PÚBLICA",
+          "turno": "Mañana",
+          "bilingüe": "No"
+        }
+      ]
+    },
+    {
+      "c": "18004276",
+      "n": "I.E.S. Ángel Ganivet",
+      "d": "Calle Santa Bárbara, 15",
+      "t": "958893353",
+      "l": "Granada",
+      "cp": "18"
+    }
+  ]
+}
